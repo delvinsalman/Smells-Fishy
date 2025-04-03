@@ -1,4 +1,4 @@
-# Smells-Fishy
+# Smells Fishy 🐟
 
 **Smells-Fishy** is a data visualization project built with JavaScript using **p5.js**, exploring seafood consumption per capita across all countries. The project utilizes an interactive **boid flocking system**, dynamic animations, and a **legend-based color system** to present global consumption trends in an engaging way. 
 
