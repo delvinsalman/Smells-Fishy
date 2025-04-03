@@ -2,6 +2,9 @@
 
 **Smells-Fishy** is a data visualization project built with JavaScript using **p5.js**, exploring seafood consumption per capita across all countries. The project utilizes an interactive **boid flocking system**, dynamic animations, and a **legend-based color system** to present global consumption trends in an engaging way. 
 
+## Live Demo
+[Click here to view the project](https://editor.p5js.org/Delvin/full/bG7XyZZw2)
+
 ## Features
 
 - **Boid Flocking System** – Simulates the movement of fish based on seafood consumption data.
